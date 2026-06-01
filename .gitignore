@@ -1,0 +1,37 @@
+# No rastrear por git — el agente sí puede leer este archivo (lo usa gmail-send.ps1)
+firma-claryon.html
+
+# Credenciales y configuración sensible
+.env
+.env.local
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Control de versiones
+.git/
+
+# Dependencias
+node_modules/
+.npm/
+
+# Logs y temporales
+*.log
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Outputs generados — el agente no necesita releer sus propios outputs
+outputs/
+dist/
+build/
+
+# Archivos de sistema
+*.sys
+*.dll
