@@ -1,6 +1,3 @@
-# No rastrear por git — el agente sí puede leer este archivo (lo usa gmail-send.ps1)
-firma-claryon.html
-
 # Credenciales y configuración sensible
 .env
 .env.local
