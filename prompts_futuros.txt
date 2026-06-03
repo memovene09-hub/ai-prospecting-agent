@@ -1,0 +1,454 @@
+==============================================================
+  PROMPTS FUTUROS — CLARYON PROSPECTOS
+  Agente: claryon-prospectos | Carril: S2 · Microsoft 365
+  Fecha: Junio 2026
+==============================================================
+
+Este documento agrupa todos los prompts listos para ejecutar
+en el agente claryon-prospectos, organizados por modo de
+operación y sector. Copiar el prompt y pegarlo directamente
+en el agente.
+
+==============================================================
+SECCIÓN 1 — MODO B (búsqueda por segmento)
+==============================================================
+
+Formato de activación:
+  "Modo B — [sector], Guadalajara / Jalisco, 16–50 empleados"
+
+--------------------------------------------------------------
+B-01 · MANUFACTURA Y PROVEEDORES INDUSTRIALES
+--------------------------------------------------------------
+Prompt:
+  Modo B — manufactura y proveedores industriales,
+  Guadalajara y Zona Metropolitana, 20–80 empleados.
+  Enfócate en talleres metalmecánicos, fabricantes de partes
+  plásticas y proveedores de nivel 2 de la industria electrónica.
+
+Señal esperada: reportes de producción en Excel, control de
+calidad en papel, sin Power BI visible.
+
+--------------------------------------------------------------
+B-02 · LOGÍSTICA Y DISTRIBUCIÓN REGIONAL
+--------------------------------------------------------------
+Prompt:
+  Modo B — logística y distribución, Jalisco, 15–60 empleados.
+  Busca empresas que distribuyan productos de consumo, alimentos
+  o materiales de construcción con flota propia en la región.
+
+Señal esperada: coordinación de rutas por WhatsApp, sin
+sistema de seguimiento centralizado.
+
+--------------------------------------------------------------
+B-03 · DESPACHOS CONTABLES Y FISCALES
+--------------------------------------------------------------
+Prompt:
+  Modo B — despachos contables y fiscales, Guadalajara,
+  5–30 empleados. Contadores con varios clientes empresariales,
+  sin área de TI interna.
+
+Señal esperada: entregables enviados por correo sin flujo
+de aprobación, tareas asignadas por WhatsApp.
+
+--------------------------------------------------------------
+B-04 · DESPACHOS JURÍDICOS Y NOTARÍAS
+--------------------------------------------------------------
+Prompt:
+  Modo B — despachos jurídicos y notarías, Guadalajara,
+  10–40 empleados. Abogados corporativos, notarios con
+  movimientos de escrituración frecuentes.
+
+Señal esperada: expedientes sin gestión digital, vencimientos
+de contratos sin alerta automática.
+
+--------------------------------------------------------------
+B-05 · CLÍNICAS Y CONSULTORIOS PRIVADOS
+--------------------------------------------------------------
+Prompt:
+  Modo B — clínicas y consultorios privados, Guadalajara
+  y ZMG, 10–50 empleados administrativos. Clínicas dentales,
+  centros de especialidades o laboratorios clínicos con
+  múltiples médicos.
+
+Señal esperada: agenda de citas en papel o Excel, reportes
+de ingresos elaborados manualmente.
+
+--------------------------------------------------------------
+B-06 · EDUCACIÓN PRIVADA Y CAPACITACIÓN
+--------------------------------------------------------------
+Prompt:
+  Modo B — colegios privados y centros de capacitación,
+  Guadalajara, 15–80 empleados. Instituciones de preescolar
+  a bachillerato o institutos de idiomas y certificaciones.
+
+Señal esperada: cobranza manual de mensualidades, comunicación
+con padres por WhatsApp sin registro formal.
+
+--------------------------------------------------------------
+B-07 · AGENCIAS DE MARKETING Y PUBLICIDAD
+--------------------------------------------------------------
+Prompt:
+  Modo B — agencias de marketing y publicidad digital,
+  Guadalajara, 10–40 empleados. Agencias creativas, productoras
+  de contenido, agencias de medios digitales.
+
+Señal esperada: gestión de proyectos por correo y hojas
+de cálculo, aprobaciones de arte por WhatsApp.
+
+--------------------------------------------------------------
+B-08 · CONSTRUCTORAS E INMOBILIARIAS
+--------------------------------------------------------------
+Prompt:
+  Modo B — constructoras e inmobiliarias, Jalisco,
+  20–100 empleados. Constructoras medianas con proyectos
+  activos, desarrolladores de vivienda o arquitectos con
+  varios proyectos simultáneos.
+
+Señal esperada: avance de obra reportado por fotos de
+WhatsApp, presupuestos en Excel sin control de cambios.
+
+--------------------------------------------------------------
+B-09 · RETAIL Y COMERCIO CON SUCURSALES
+--------------------------------------------------------------
+Prompt:
+  Modo B — retail y comercio al por menor con 2 o más
+  sucursales, Jalisco, 15–80 empleados. Tiendas de ropa,
+  ferreterías, papelerías o cadenas de especialidad.
+
+Señal esperada: inventario consolidado manualmente desde
+cada sucursal, reportes de ventas enviados por correo.
+
+--------------------------------------------------------------
+B-10 · RESTAURANTES Y CADENAS DE ALIMENTOS
+--------------------------------------------------------------
+Prompt:
+  Modo B — restaurantes y cadenas de alimentos con 2 o más
+  sucursales, Guadalajara y ZMG, 15–60 empleados. Dark
+  kitchens, cafeterías o franquicias de alimentos regionales.
+
+Señal esperada: control de mermas en papel, sin reporte
+consolidado de ventas por turno o sucursal.
+
+==============================================================
+SECCIÓN 2 — MODO C (búsqueda por caso de uso M365)
+==============================================================
+
+Formato de activación:
+  "Modo C — [descripción del problema o herramienta M365]"
+
+Estos prompts atacan el dolor específico, no el sector.
+Úsalos cuando quieras cruzar varios sectores con un mismo
+problema tecnológico.
+
+--------------------------------------------------------------
+C-01 · TEAMS SIN POWER AUTOMATE
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas en Jalisco que usan Microsoft Teams
+  para comunicación interna pero no tienen flujos de
+  aprobación ni automatización de procesos. Tamaño 15–80
+  empleados.
+
+Sectores donde el agente buscará:
+  Manufactura · Servicios profesionales · Construcción
+
+--------------------------------------------------------------
+C-02 · MICROSOFT 365 SIN POWER BI
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas con Microsoft 365 activo en Guadalajara
+  que no tienen implementado Power BI. Generan reportes
+  manuales de ventas o producción en Excel cada semana.
+  Tamaño 20–100 empleados.
+
+Sectores donde el agente buscará:
+  Distribución · Comercio · Manufactura
+
+--------------------------------------------------------------
+C-03 · SHAREPOINT SIN GESTIÓN DOCUMENTAL REAL
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas en Jalisco con licencia Microsoft 365
+  que tienen SharePoint disponible pero siguen gestionando
+  documentos por correo o carpetas locales. Sin control
+  de versiones ni flujos de revisión. Tamaño 10–50 empleados.
+
+Sectores donde el agente buscará:
+  Despachos jurídicos · Contables · Construcción
+
+--------------------------------------------------------------
+C-04 · OUTLOOK SIN AUTOMATIZACIÓN DE CORREO
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas que usan Outlook como principal canal
+  de comunicación con clientes pero no tienen automatizaciones
+  de seguimiento, recordatorios ni respuestas automáticas
+  con Power Automate. Jalisco, 10–60 empleados.
+
+Sectores donde el agente buscará:
+  Servicios profesionales · Clínicas · Educación
+
+--------------------------------------------------------------
+C-05 · EXCEL COMO ÚNICO SISTEMA DE GESTIÓN
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas con Microsoft 365 en Guadalajara cuyo
+  único sistema de gestión operativa es Excel. Sin base de
+  datos centralizada, sin app interna, sin Power Apps.
+  Tamaño 15–60 empleados.
+
+Sectores donde el agente buscará:
+  Manufactura · Logística · Retail
+
+--------------------------------------------------------------
+C-06 · MICROSOFT 365 SIN APROVECHAMIENTO EN RRHH
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas en Jalisco con Microsoft 365 que gestionan
+  solicitudes de vacaciones, permisos y evaluaciones por
+  correo o papel. Sin flujo de aprobación automatizado para
+  RRHH. Tamaño 20–80 empleados.
+
+Sectores donde el agente buscará:
+  Manufactura · Distribución · Educación
+
+--------------------------------------------------------------
+C-07 · POWER APPS — SUSTITUCIÓN DE FORMULARIOS EN PAPEL
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas en Jalisco con Microsoft 365 que aún
+  usan formularios físicos o PDFs sin datos estructurados
+  para checklist de calidad, reportes de campo o entregas.
+  Tamaño 15–80 empleados.
+
+Sectores donde el agente buscará:
+  Manufactura · Construcción · Logística
+
+--------------------------------------------------------------
+C-08 · FACTURACIÓN Y COBRANZA SIN AUTOMATIZACIÓN
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas con Microsoft 365 en Guadalajara que
+  emiten facturas o gestionan cobranza manualmente, sin
+  flujo de notificación automática de vencimientos ni
+  integración con Outlook o Teams. Tamaño 10–50 empleados.
+
+Sectores donde el agente buscará:
+  Despachos contables · Educación · Servicios
+
+--------------------------------------------------------------
+C-09 · SECTOR SALUD CON M365 SIN DIGITALIZAR OPERACIONES
+--------------------------------------------------------------
+Prompt:
+  Modo C — clínicas, consultorios y laboratorios privados
+  en Guadalajara con Microsoft 365 activo pero sin gestión
+  digital de citas, reportes de ocupación ni control de
+  insumos automatizado. Tamaño 10–60 empleados.
+
+Sectores donde el agente buscará:
+  Clínicas · Laboratorios · Consultorios especializados
+
+--------------------------------------------------------------
+C-10 · EMPRESAS CON TEAMS QUE AÚN COORDINAN POR WHATSAPP
+--------------------------------------------------------------
+Prompt:
+  Modo C — empresas en Jalisco que tienen Microsoft Teams
+  instalado pero su coordinación operativa real ocurre por
+  WhatsApp. Sin canales estructurados, sin uso de Planner
+  ni Power Automate para tareas. Tamaño 15–60 empleados.
+
+Sectores donde el agente buscará:
+  Construcción · Logística · Agencias
+
+==============================================================
+SECCIÓN 3 — MODO A (empresa específica)
+==============================================================
+
+Úsalo cuando identifiques una empresa concreta por nombre
+y quieras investigarla y calificarla antes de registrar.
+
+Formato de activación:
+  "Modo A — [nombre de empresa], [ciudad]"
+
+Ejemplos listos:
+
+  Modo A — Grupo Industrial Gutiérrez, Guadalajara
+  Modo A — Despacho Contable Torres y Asociados, Zapopan
+  Modo A — Clínica Especialidades del Pacífico, Guadalajara
+  Modo A — Distribuidora Herrera, El Salto Jalisco
+  Modo A — Colegio Inglés Moderno, Tlaquepaque
+
+==============================================================
+SECCIÓN 4 — MODO ENVÍO (correos pendientes)
+==============================================================
+
+Formato de activación (exacto):
+  "envía los pendientes"
+  — o —
+  "envía correos pendientes"
+
+El agente consulta Notion, lista los registros con
+"Listo para enviar = YES" y "Correo enviado = NO",
+muestra la lista y espera confirmación antes de enviar.
+
+==============================================================
+SECCIÓN 5 — ESPACIOS DE OPORTUNIDAD NO CUBIERTOS AÚN
+==============================================================
+
+Estas son áreas donde el sistema actual puede crecer o
+donde hay oportunidad comercial sin prompt definido todavía.
+
+--------------------------------------------------------------
+5-A · DIRECTORIOS SECTORIALES FORMALES
+--------------------------------------------------------------
+Oportunidad:
+  CANIETI Jalisco, CAINTRA, Canaco Guadalajara, COEEBA y
+  CANIRAC publican directorios de empresas afiliadas. Muchas
+  de estas empresas son MIPYMES con M365.
+
+Acción futura:
+  Crear prompt Modo B que combine nombre del directorio
+  como fuente de búsqueda:
+    "Modo B — manufactura electrónica, Guadalajara, 20–80
+     empleados. Usar directorio CANIETI como referencia
+     de candidatos."
+
+--------------------------------------------------------------
+5-B · LINKEDIN SALES NAVIGATOR COMO FUENTE
+--------------------------------------------------------------
+Oportunidad:
+  El filtro de tecnología detectada en Sales Navigator
+  permite encontrar empresas con M365 activo directamente.
+  El agente actualmente usa WebSearch/WebFetch por LinkedIn
+  (sin login), lo que limita los resultados.
+
+Acción futura:
+  Si se conecta LinkedIn a través de MCP o sesión activa,
+  los prompts Modo B y C tendrían resultados significativamente
+  más precisos. Tener esto en roadmap.
+
+--------------------------------------------------------------
+5-C · SEGUIMIENTO A PROSPECTOS FRÍOS
+--------------------------------------------------------------
+Oportunidad:
+  Prospectos registrados en Notion que no respondieron
+  al primer correo. No hay modo de reactivación definido.
+
+Prompt a construir:
+  "Reactivar prospecto — [nombre empresa]. Han pasado
+   [X] días desde el primer contacto. Generar un segundo
+   mensaje de seguimiento adaptado al sector y señal
+   de dolor original."
+
+--------------------------------------------------------------
+5-D · EXPANSIÓN A MUNICIPIOS DEL ESTADO
+--------------------------------------------------------------
+Oportunidad:
+  Lagos de Moreno, Ocotlán, La Barca, Puerto Vallarta y
+  Tepatitlán tienen clusters industriales y empresariales
+  con menor competencia de consultores Microsoft.
+
+Prompts a ejecutar en siguiente etapa:
+  "Modo B — manufactura e industria, Lagos de Moreno, 20–60 empleados"
+  "Modo B — agropecuario y procesamiento de alimentos, Ocotlán, 15–50 empleados"
+  "Modo B — turismo y hospitalidad, Puerto Vallarta, 20–80 empleados"
+  "Modo B — industria quesera y láctea, Tepatitlán, 15–60 empleados"
+
+--------------------------------------------------------------
+5-E · DIAGNÓSTICO S1 COMO PUERTA DE ENTRADA
+--------------------------------------------------------------
+Oportunidad:
+  Prospectos que muestren interés pero digan "no sabemos
+  qué necesitamos" son candidatos perfectos para el
+  Diagnóstico S1 ($3,500 MXN fijo).
+
+Prompt de mensaje adaptado a construir:
+  "Generar mensaje de seguimiento para [empresa] enfocado
+   en proponer el Diagnóstico S1 como primer paso, dado
+   que no hay señal clara de herramienta específica."
+
+--------------------------------------------------------------
+5-F · CAMPAÑA POR HERRAMIENTA (NO POR SECTOR)
+--------------------------------------------------------------
+Oportunidad:
+  En lugar de buscar por sector, buscar empresas que
+  ya pagaron por una herramienta específica y no la usan.
+  Argumento: "ya lo tienes pagado".
+
+Prompts a construir por herramienta:
+  Power BI:        C-02 (ya definido arriba)
+  Power Automate:  C-01 (ya definido arriba)
+  Power Apps:      C-07 (ya definido arriba)
+  SharePoint:      C-03 (ya definido arriba)
+  Copilot Studio:  Por construir — "empresas con M365 E3/E5
+                   que no han desplegado ningún agente
+                   de IA conversacional"
+
+--------------------------------------------------------------
+5-G · INDUSTRIA AGROPECUARIA Y ALIMENTOS
+--------------------------------------------------------------
+Oportunidad:
+  Jalisco es el principal productor de leche, tequila,
+  carne porcina y aguacate de México. Muchas empresas
+  del sector tienen M365 por cumplimiento o recomendación
+  de cliente grande, pero sin implementar nada.
+
+Prompt a ejecutar:
+  "Modo B — industria de alimentos y agroindustria,
+   Jalisco, 20–80 empleados. Procesadoras de lácteos,
+   embotelladoras de tequila o mezcal, empacadoras."
+
+--------------------------------------------------------------
+5-H · SECTOR AUTOMOTRIZ Y PROVEEDORES
+--------------------------------------------------------------
+Oportunidad:
+  El corredor industrial Zapopan–El Salto concentra
+  proveedores de nivel 2 y 3 para armadoras. Muchos
+  tienen M365 por requisito de cliente pero sin
+  aprovechar Power Platform.
+
+Prompt a ejecutar:
+  "Modo B — proveedores automotrices y metal-mecánica,
+   El Salto y Zapopan Jalisco, 25–100 empleados.
+   Buscar certificaciones ISO 9001 como señal de
+   proceso formal sin automatización digital."
+
+==============================================================
+ORDEN SUGERIDO DE EJECUCIÓN
+==============================================================
+
+Semana 1–2 (ejecución inmediata):
+  B-01 · B-03 · B-04 · C-02 · C-05
+
+Semana 3–4:
+  B-02 · B-05 · B-07 · C-01 · C-08
+
+Semana 5–6:
+  B-06 · B-08 · B-09 · C-03 · C-07
+
+Expansión futura (cuando ZMG esté cubierta):
+  Municipios del estado (sección 5-D)
+  Agro e industria alimentaria (5-G)
+  Sector automotriz (5-H)
+
+==============================================================
+NOTAS OPERATIVAS
+==============================================================
+
+- Cada prompt Modo B genera hasta 5 candidatos. Con 10 prompts
+  de Modo B se obtienen hasta 50 candidatos calificados.
+
+- Los prompts Modo C cruzan sectores — pueden generar
+  candidatos que no aparecen en los Modo B sectoriales.
+  Combinar ambos para mayor cobertura.
+
+- Si un candidato aparece en dos prompts distintos, el agente
+  lo detecta como duplicado en el paso 0 y no lo registra
+  dos veces en Notion.
+
+- Revisar Notion después de cada batch para aprobar drafts
+  antes de ejecutar Modo Envío.
+
+==============================================================
+  Claryon — Sistema de Prospección Microsoft 365 · Jalisco
+==============================================================

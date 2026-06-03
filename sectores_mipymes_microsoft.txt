@@ -1,0 +1,266 @@
+==============================================================
+  SECTORES MIPYMES - OPORTUNIDADES MICROSOFT 365 / POWER PLATFORM
+  Alcance: Jalisco, México | Elaborado por Claryon
+  Fecha: Junio 2026
+==============================================================
+
+CONTEXTO
+--------
+Empresas objetivo: MIPYMES de 10 a 250 empleados que ya cuentan
+con licencias Microsoft 365 (Business Basic, Standard o Premium)
+pero no han activado ni implementado:
+  - Power BI (reportes e inteligencia de negocios)
+  - Power Automate (automatización de flujos y procesos)
+  - Power Apps (aplicaciones internas sin código)
+  - SharePoint / Teams avanzado (colaboración y gestión documental)
+
+La mayoría paga por estas herramientas sin usarlas.
+
+==============================================================
+SECTOR 1 — MANUFACTURA Y PROVEEDORES INDUSTRIALES
+==============================================================
+Descripción:
+  Talleres, maquiladoras de nivel 2 y 3, fabricantes de partes
+  y componentes. Fuerte presencia en ZMG, El Salto, Ocotlán.
+
+Dolor típico:
+  - Control de producción en hojas de Excel sin consolidar
+  - Reportes de calidad elaborados manualmente cada semana
+  - Órdenes de trabajo en papel o WhatsApp
+  - Sin visibilidad en tiempo real del inventario o avance
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de producción, eficiencia y calidad
+  [Power Automate] Alertas automáticas de paro de línea o faltante
+  [Power Apps]     App de checklist de calidad para operadores
+  [SharePoint]     Repositorio de manuales y procedimientos ISO
+
+Cargo a contactar: Gerente de Operaciones, Director de Planta
+
+--------------------------------------------------------------
+SECTOR 2 — LOGÍSTICA, TRANSPORTE Y DISTRIBUCIÓN
+==============================================================
+Descripción:
+  Transportistas, operadores de flota, distribuidores regionales
+  de alimentos, bebidas, farmacéuticos y materiales de construcción.
+
+Dolor típico:
+  - Seguimiento de unidades y entregas por llamada telefónica
+  - Reportes de rutas en Excel enviados por correo
+  - Facturación y comprobantes sin flujo de aprobación
+  - Coordinadores saturados con reportes manuales diarios
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de entregas, KPIs de flota, rutas
+  [Power Automate] Flujo de aprobación de gastos de viaje y CFDI
+  [Power Apps]     App de reporte de unidad para operadores
+  [Teams]          Canal de coordinación por ruta o zona
+
+Cargo a contactar: Gerente de Logística, Administrador General
+
+--------------------------------------------------------------
+SECTOR 3 — DESPACHOS CONTABLES Y FISCALES
+==============================================================
+Descripción:
+  Contadores independientes y despachos de 5 a 40 personas que
+  prestan servicios a varias empresas cliente. Muy común en ZMG.
+
+Dolor típico:
+  - Declaraciones y entregables gestionados por correo y carpetas
+  - Sin flujo de revisión o aprobación antes de enviar al cliente
+  - Tareas asignadas por WhatsApp, sin trazabilidad
+  - Documentos del cliente dispersos sin control de versiones
+
+Soluciones aplicables:
+  [Power Automate] Flujo de revisión y firma de declaraciones
+  [SharePoint]     Portal del cliente con carpetas organizadas
+  [Power Apps]     App de seguimiento de obligaciones fiscales
+  [Power BI]       Reporte de carga de trabajo por contador
+
+Cargo a contactar: Socio Director, Contador General
+
+--------------------------------------------------------------
+SECTOR 4 — DESPACHOS JURÍDICOS Y NOTARIALES
+==============================================================
+Descripción:
+  Notarías, despachos de abogados corporativos, gestores de
+  trámites legales y de bienes raíces en Guadalajara y ZMG.
+
+Dolor típico:
+  - Expedientes físicos o en carpetas sin búsqueda rápida
+  - Fechas de vencimiento de contratos sin alerta automática
+  - Comunicación con clientes por correo sin seguimiento formal
+  - Sin métricas de asuntos abiertos, tiempos o ingresos
+
+Soluciones aplicables:
+  [SharePoint]     Gestión documental de expedientes con metadatos
+  [Power Automate] Alertas automáticas de vencimientos y renovaciones
+  [Power BI]       Dashboard de asuntos, ingresos y tiempos
+  [Power Apps]     App de intake de nuevos clientes y asuntos
+
+Cargo a contactar: Socio Director, Administrador del Despacho
+
+--------------------------------------------------------------
+SECTOR 5 — CLÍNICAS Y CONSULTORIOS PRIVADOS
+==============================================================
+Descripción:
+  Clínicas dentales, consultorios médicos, laboratorios clínicos
+  y centros de especialidades con personal administrativo propio.
+  Guadalajara tiene más de 300 establecimientos privados.
+
+Dolor típico:
+  - Citas y ocupación gestionadas en agenda física o Excel
+  - Reportes de ingresos elaborados manualmente por semana
+  - Sin control de inventario de insumos
+  - Comunicación interna por WhatsApp sin registro formal
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de ocupación, ingresos y pacientes
+  [Power Automate] Recordatorio automático de citas por correo
+  [Power Apps]     App de registro de insumos y stock
+  [Teams]          Comunicación interna estructurada por área
+
+Cargo a contactar: Administrador, Dueño del consultorio
+
+--------------------------------------------------------------
+SECTOR 6 — EDUCACIÓN PRIVADA (COLEGIOS Y CENTROS DE CAPACITACIÓN)
+==============================================================
+Descripción:
+  Colegios particulares de preescolar a bachillerato, institutos
+  de idiomas, academias de capacitación técnica o profesional.
+
+Dolor típico:
+  - Comunicación con padres por WhatsApp sin registro
+  - Calificaciones y seguimiento académico en Excel
+  - Cobranza de mensualidades sin seguimiento automatizado
+  - Sin métricas de retención, inscripciones o deserción
+
+Soluciones aplicables:
+  [Power Automate] Recordatorio automático de cobranza mensual
+  [Power BI]       Dashboard de inscripciones, pagos y retención
+  [Power Apps]     App de seguimiento académico por alumno
+  [SharePoint]     Portal de comunicados para padres y docentes
+
+Cargo a contactar: Director Administrativo, Director General
+
+--------------------------------------------------------------
+SECTOR 7 — AGENCIAS DE MARKETING Y PUBLICIDAD
+==============================================================
+Descripción:
+  Agencias creativas, productoras de contenido, agencias
+  de medios digitales. Alta concentración en Guadalajara.
+
+Dolor típico:
+  - Gestión de proyectos por correo y hojas de cálculo
+  - Sin seguimiento formal de horas trabajadas por cliente
+  - Aprobaciones de arte o briefs por WhatsApp
+  - Reportes de resultados elaborados manualmente al cliente
+
+Soluciones aplicables:
+  [Power Automate] Flujo de aprobación de materiales creativos
+  [Power BI]       Reporte de desempeño de campañas por cliente
+  [Power Apps]     App de registro de horas por proyecto
+  [SharePoint]     Portal de entregables con historial de versiones
+
+Cargo a contactar: Director de Cuentas, Director General
+
+--------------------------------------------------------------
+SECTOR 8 — CONSTRUCCIÓN E INMOBILIARIAS
+==============================================================
+Descripción:
+  Constructoras medianas, desarrolladores de vivienda, empresas
+  de arquitectura, instaladoras de sistemas y acabados.
+
+Dolor típico:
+  - Avance de obra reportado en fotos de WhatsApp
+  - Presupuestos y estimaciones en Excel sin control de cambios
+  - Sin visibilidad del estatus de múltiples proyectos simultáneos
+  - Autorizaciones de gasto sin flujo formal
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de avance por proyecto y presupuesto
+  [Power Automate] Flujo de autorización de estimaciones de obra
+  [Power Apps]     App de reporte diario de avance de obra
+  [SharePoint]     Repositorio de planos, contratos y permisos
+
+Cargo a contactar: Director de Proyectos, Gerente Administrativo
+
+--------------------------------------------------------------
+SECTOR 9 — RETAIL Y COMERCIO AL POR MENOR
+==============================================================
+Descripción:
+  Tiendas de ropa, ferreterías, papelerías, tiendas de electrónica,
+  franquicias locales y cadenas regionales con 2 a 15 sucursales.
+
+Dolor típico:
+  - Inventario consolidado manualmente desde cada sucursal
+  - Reportes de ventas por sucursal enviados por correo
+  - Sin comparativa de desempeño entre tiendas o periodos
+  - Solicitudes de traspasos y surtido por WhatsApp
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de ventas comparativo por sucursal
+  [Power Automate] Alerta automática de bajo inventario
+  [Power Apps]     App de conteo de inventario físico
+  [SharePoint]     Comunicados y manuales operativos por sucursal
+
+Cargo a contactar: Gerente de Operaciones, Dueño
+
+--------------------------------------------------------------
+SECTOR 10 — RESTAURANTES Y CADENAS DE ALIMENTOS
+==============================================================
+Descripción:
+  Restaurantes con 2 o más sucursales, cafeterías, dark kitchens,
+  franquicias de alimentos en ZMG y municipios del estado.
+
+Dolor típico:
+  - Mermas y costos de alimentos controlados en papel
+  - Sin reporte consolidado de ventas por turno o sucursal
+  - Comunicación con cocina por WhatsApp
+  - Proveedores gestionados sin orden ni historial
+
+Soluciones aplicables:
+  [Power BI]       Dashboard de ventas, ticket promedio y merma
+  [Power Automate] Alerta de baja en ventas o alto costo de insumo
+  [Power Apps]     App de control de inventario de cocina
+  [Teams]          Canal de comunicación interna por sucursal
+
+Cargo a contactar: Dueño, Gerente General, Director de Operaciones
+
+==============================================================
+RESUMEN DE HERRAMIENTAS POR CASO DE USO
+==============================================================
+
+  Power BI          → Reportes, dashboards, visibilidad de datos
+  Power Automate    → Flujos, alertas, aprobaciones automáticas
+  Power Apps        → Apps internas sin programación
+  SharePoint        → Gestión documental, portales, intranets
+  Teams avanzado    → Canales estructurados, integración de apps
+
+==============================================================
+ARGUMENTO COMERCIAL CLAVE
+==============================================================
+
+  "Si ya tienes Microsoft 365, ya pagaste por estas herramientas.
+   Solo hay que activarlas y configurarlas para tu negocio.
+   No es una inversión nueva — es aprovechar lo que ya tienes."
+
+  Planes que incluyen Power Platform:
+    - Microsoft 365 Business Basic   → Power Automate básico
+    - Microsoft 365 Business Standard → Power Automate + Power Apps
+    - Microsoft 365 Business Premium  → Suite completa
+    - Microsoft 365 E3 / E5           → Power BI Pro incluido
+
+==============================================================
+PRÓXIMOS PASOS SUGERIDOS
+==============================================================
+
+  1. Seleccionar 2-3 sectores prioritarios según tu red actual
+  2. Buscar empresas en LinkedIn con filtros de tamaño + tecnología
+  3. Identificar al decisor (no TI — buscar operaciones o finanzas)
+  4. Usar el argumento: "ya lo tienes pagado, solo hay que usarlo"
+  5. Ofrecer diagnóstico gratuito de 30 min como puerta de entrada
+
+==============================================================
+  Claryon — Consultoría Microsoft para MIPYMES en Jalisco
+==============================================================
